@@ -1,0 +1,13 @@
+C:\Users\User\workspace\ChooseAdventure\ChooseAdventure\bin\Debug\netcoreapp3.1\ChooseAdventure.exe
+C:\Users\User\workspace\ChooseAdventure\ChooseAdventure\bin\Debug\netcoreapp3.1\ChooseAdventure.deps.json
+C:\Users\User\workspace\ChooseAdventure\ChooseAdventure\bin\Debug\netcoreapp3.1\ChooseAdventure.runtimeconfig.json
+C:\Users\User\workspace\ChooseAdventure\ChooseAdventure\bin\Debug\netcoreapp3.1\ChooseAdventure.runtimeconfig.dev.json
+C:\Users\User\workspace\ChooseAdventure\ChooseAdventure\bin\Debug\netcoreapp3.1\ChooseAdventure.dll
+C:\Users\User\workspace\ChooseAdventure\ChooseAdventure\bin\Debug\netcoreapp3.1\ChooseAdventure.pdb
+C:\Users\User\workspace\ChooseAdventure\ChooseAdventure\obj\Debug\netcoreapp3.1\ChooseAdventure.csprojAssemblyReference.cache
+C:\Users\User\workspace\ChooseAdventure\ChooseAdventure\obj\Debug\netcoreapp3.1\ChooseAdventure.AssemblyInfoInputs.cache
+C:\Users\User\workspace\ChooseAdventure\ChooseAdventure\obj\Debug\netcoreapp3.1\ChooseAdventure.AssemblyInfo.cs
+C:\Users\User\workspace\ChooseAdventure\ChooseAdventure\obj\Debug\netcoreapp3.1\ChooseAdventure.csproj.CoreCompileInputs.cache
+C:\Users\User\workspace\ChooseAdventure\ChooseAdventure\obj\Debug\netcoreapp3.1\ChooseAdventure.dll
+C:\Users\User\workspace\ChooseAdventure\ChooseAdventure\obj\Debug\netcoreapp3.1\ChooseAdventure.pdb
+C:\Users\User\workspace\ChooseAdventure\ChooseAdventure\obj\Debug\netcoreapp3.1\ChooseAdventure.genruntimeconfig.cache
